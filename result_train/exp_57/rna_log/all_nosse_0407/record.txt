@@ -1,0 +1,40 @@
+* test * pdb7eon 
+ 
+
+cor for pdb7eon:0.793 
+ 
+
+MAE for pdb7eon:0.04600000008940697 
+ 
+
+RMSE for pdb7eon:0.05999999865889549 
+ 
+
+pdb7eon loss for rmsf is 0.0036438708193600178 
+ 
+* test * pdb437d 
+ 
+
+cor for pdb437d:0.682 
+ 
+
+MAE for pdb437d:0.10700000077486038 
+ 
+
+RMSE for pdb437d:0.11699999868869781 
+ 
+
+pdb437d loss for rmsf is 0.013693529181182384 
+ 
+* test * 2ZY6 
+ 
+
+cor for 2ZY6:0.732 
+ 
+
+MAE for 2ZY6:0.06700000166893005 
+ 
+
+RMSE for 2ZY6:0.08500000089406967 
+ 
+
